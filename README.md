@@ -12,3 +12,5 @@
 4. [Catmull-Rom splines](http://nbviewer.jupyter.org/github/empet/geom_modeling/blob/master/Catmull-Rom-splines.ipynb)
 
 5. [Tubular  surfaces](http://nbviewer.jupyter.org/github/empet/Geometric-Modeling/blob/master/Tubular-and-canal-surfaces-Plotly.ipynb)
+
+6. [Interactive spherical Voronoi diagram](http://nbviewer.jupyter.org/github/empet/Geometric-Modeling/blob/master/Spherical-Voronoi.ipynb)
